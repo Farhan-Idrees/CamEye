@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "896075086092",
+    "firebase_url": "https://cameye-9ae6a-default-rtdb.firebaseio.com",
+    "project_id": "cameye-9ae6a",
+    "storage_bucket": "cameye-9ae6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896075086092:android:5f7907cfff02a75811b129",
+        "android_client_info": {
+          "package_name": "com.example.cameye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJiZuPuDke7399LVOiXnlCGEeI21ho2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
